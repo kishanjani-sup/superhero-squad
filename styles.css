@@ -1,0 +1,19 @@
+.button{
+  text-align: center;
+  padding-top: 300px;
+}
+.writing{
+  font-family: 'Lobster', cursive;
+}
+body{
+
+  background-image: url("c.jpg");
+  background-size:1440px 900px;
+  text-align: center;
+  color: white;
+}
+.quote{
+  padding-top: 20px;
+  font-size: 35px;
+  font-family: 'Rowdies', cursive;
+}
